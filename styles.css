@@ -1,0 +1,42 @@
+h1 {
+    color: black;
+    padding: 10px;
+    text-decoration: underline;
+   }
+
+
+h2 {
+    color: black;
+    padding: 0px;
+    font-size: 18px;
+   }
+
+
+h3 {
+    color: olive;
+    padding: 0px;
+    font-size: 18px;
+   }
+
+p {
+    width: 70%;
+}
+
+
+ul {
+  list-style-type: square;
+}
+
+table {
+    border-collapse: collapse;
+    border: solid;
+}
+
+
+table tr td {
+    text-align: center;
+    padding-left: 0px;
+    padding-right: 5px;
+    border-bottom: 1px solid black;
+}
+
