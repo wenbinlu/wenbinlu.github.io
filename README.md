@@ -1,2 +1,2 @@
 # wenbinlu.github.io
-personal website
+personal website https://wenbinlu.github.io
