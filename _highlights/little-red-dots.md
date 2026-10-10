@@ -5,7 +5,7 @@ slug: "little-red-dots"
 section: "recent"
 order: 1
 year: 2026
-topic: "Early black holes"
+topic: "Little Red Dots"
 summary: "JWST has uncovered an abundant population of compact red sources in the early Universe whose nature remains uncertain. Could these little red dots be hydrogen-burning stars with masses hundreds of thousands of times that of the Sun? We explore how metal-enriched supermassive stars develop inflated, cool envelopes and eventually collapse into seeds of supermassive black holes."
 paper_title: "Inflated Supermassive Stars as Little Red Dots and Progenitors of Supermassive Black Holes"
 authors: "Wenbin Lu"

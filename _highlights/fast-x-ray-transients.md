@@ -5,7 +5,7 @@ slug: "fast-x-ray-transients"
 section: "recent"
 order: 4
 year: 2026
-topic: "Jets and high-energy transients"
+topic: "Fast X-ray Transients"
 summary: "Can we identify neutron star mergers promptly when their narrow gamma-ray burst jets point away from us? We show that cooling of the jet-driven cocoon can produce a brief soft X-ray flash for off-axis observers, even when the gamma-ray burst is missed."
 paper_title: "First Light of Neutron Star Mergers: Off-axis Cocoon Cooling X-ray Emission from Short Gamma-Ray Burst Jets"
 authors: "Jian-He Zheng and Wenbin Lu"
