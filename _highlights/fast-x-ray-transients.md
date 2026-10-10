@@ -9,7 +9,7 @@ summary: "Neutron star mergers may produce a brief soft X-ray flash even when th
 paper_title: "First Light of Neutron Star Mergers: Off-axis Cocoon Cooling X-ray Emission from Short Gamma-Ray Burst Jets"
 authors: "Jian-He Zheng and Wenbin Lu"
 paper_url: "https://arxiv.org/abs/2609.14508"
-publication_status: "Preprint"
+publication_status: "Accepted; arXiv preprint"
 image: "/files/research/fast-x-ray-transients/NSM_jet_cocoon.png"
 image_alt: "Six simulation snapshots showing the energy density of a jet and its surrounding cocoon from 0 to about 1,000 seconds in the lab frame. Black solid and green dashed curves mark the photospheric and diffusion radii in the last three panels."
 image_caption: "Figure 1: A jet propagating through neutron star merger ejecta creates a hot cocoon that expands beyond the ejecta. Colors show logarithmic energy density; black solid and green dashed curves mark the photospheric and diffusion radii. The six snapshots follow the lab-frame evolution to roughly 1,000 seconds, when cooling radiation can escape."

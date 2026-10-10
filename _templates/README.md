@@ -20,3 +20,5 @@ The main page is generated at /research.html from research-review.md and _layout
 Add a new project's slug to highlight_slugs in research-review.md to include it.
 Earlier research remains available at /research-earlier.html.
 The research-preview.md draft is excluded from publication.
+
+Use the journal publication year for published papers and the first arXiv submission year for preprints. A later journal publication can therefore change year even when the arXiv identifier begins with an earlier year.
