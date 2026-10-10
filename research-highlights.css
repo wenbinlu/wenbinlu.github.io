@@ -13,6 +13,7 @@ figure { margin: 24px 0; max-width: 800px; }
 figure img { display: block; width: 100%; height: auto; }
 figcaption { margin-top: 12px; line-height: 1.4; }
 .project-body { line-height: 1.4; }
+.project-body h3 { color: black; font-weight: bold; }
 .earlier { width: 70%; border-top: 1px solid #aaa; padding-top: 16px; }
 .earlier p { width: 100%; }
 footer { margin-top: 32px; border-top: 1px solid #aaa; padding: 16px 0; }
