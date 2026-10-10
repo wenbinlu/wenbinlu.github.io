@@ -1,5 +1,6 @@
 ---
 title: "Little red dots as supermassive stars"
+display_title: "Little Red Dots (2026)"
 slug: "little-red-dots"
 section: "recent"
 order: 1

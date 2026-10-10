@@ -6,6 +6,7 @@ html { scroll-behavior: smooth; scroll-padding-top: 16px; }
 .highlight { width: 70%; border-top: 1px solid #aaa; padding: 20px 0 28px; }
 .highlight p { width: 100%; }
 .eyebrow { margin-top: 0; color: olive; }
+.combined-title { color: olive; font-weight: bold; }
 .summary { line-height: 1.4; }
 .paper { line-height: 1.4; }
 figure { margin: 24px 0; max-width: 800px; }

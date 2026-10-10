@@ -30,8 +30,12 @@
   {% for highlight in highlights %}
     {% if selected_slugs contains highlight.slug %}
     <article class="highlight" id="{{ highlight.slug | escape }}">
+      {% if highlight.display_title %}
+      <h2 class="combined-title">{{ highlight.display_title | escape }}</h2>
+      {% else %}
       <p class="eyebrow">{{ highlight.topic | escape }} · {{ highlight.year }}</p>
       <h2>{{ highlight.title | escape }}</h2>
+      {% endif %}
       <p class="summary">{{ highlight.summary | escape }}</p>
       <p class="paper"><a href="{{ highlight.paper_url | escape }}">{{ highlight.paper_title | escape }}</a><br>{{ highlight.authors | escape }} · {{ highlight.year }} · {{ highlight.publication_status | escape }}</p>
       {% if highlight.image != empty %}
