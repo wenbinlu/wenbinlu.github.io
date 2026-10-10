@@ -11,7 +11,7 @@ html { scroll-behavior: smooth; scroll-padding-top: 16px; }
 .paper { line-height: 1.4; }
 figure { margin: 24px 0; max-width: 600px; }
 figure img { display: block; width: 100%; height: auto; }
-figcaption { margin-top: 12px; font-size: 14px; line-height: 1.4; }
+figcaption { margin-top: 12px; font-size: 13px; line-height: 1.4; }
 .project-body { line-height: 1.4; }
 .project-body h3 { color: black; font-weight: bold; }
 .earlier { width: 70%; border-top: 1px solid #aaa; padding-top: 16px; }
