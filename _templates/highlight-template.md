@@ -5,7 +5,7 @@ section: "recent"
 order: 1
 year: 2026
 topic: "[Research area]"
-summary: "[Two sentences: the question and your main result.]"
+summary: "[Two or three sentences combining the scientific context, question, and main result.]"
 paper_title: "[Full paper title]"
 authors: "[Author names]"
 paper_url: "https://arxiv.org/abs/REPLACE"
@@ -14,10 +14,6 @@ image: ""
 image_alt: ""
 image_caption: ""
 ---
-
-## The question
-
-[One or two sentences describing the scientific problem.]
 
 ## What we found
 

@@ -5,7 +5,7 @@ section: "recent"
 order: 3
 year: 2026
 topic: "Binaries in galactic nuclei"
-summary: "A massive black hole can help tighten stellar binaries before tearing them apart. We show how repeated perturbations excite chaotic stellar oscillations, creating close binaries and a channel for exceptionally fast escaping stars."
+summary: "A massive black hole can tear a stellar binary apart, ejecting one star at high speed and capturing the other. What happens during the many passages before breakup? We show how repeated perturbations excite chaotic stellar oscillations, tightening binaries and creating a channel for exceptionally fast escaping stars."
 paper_title: "Formation of Close Binaries through Massive Black Hole Perturbations and Chaotic Tides"
 authors: "Howard Hao-Tse Huang and Wenbin Lu"
 paper_url: "https://arxiv.org/abs/2511.11965"
@@ -14,10 +14,6 @@ image: "/files/research/chaotic-tides/system_overview.png"
 image_alt: "Schematic of a stellar binary orbiting a massive black hole. Outer-orbit relaxation and precession accompany black-hole perturbations of the binary eccentricity. Red arrows connect chaotic tidal growth at close stellar encounters to rapid circularization and formation of a close binary."
 image_caption: "A stellar binary repeatedly passes near a massive black hole while its outer orbit evolves through relaxation and precession. Black-hole perturbations can increase the binary’s eccentricity until the stars pass within a few stellar radii of each other. Chaotic tidal excitation then removes orbital energy, rapidly shrinking and circularizing the binary."
 ---
-
-## The question
-
-A massive black hole can tear a stellar binary apart, ejecting one star at high speed and capturing the other. But what happens during the many passages before this breakup?
 
 ## What's found
 

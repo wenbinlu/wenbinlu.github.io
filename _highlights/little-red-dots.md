@@ -5,7 +5,7 @@ section: "recent"
 order: 1
 year: 2026
 topic: "Early black holes"
-summary: "Could some of the compact red sources discovered by JWST be supermassive stars? We explore how metal-enriched stars can develop inflated, cool envelopes and eventually collapse into seeds of supermassive black holes."
+summary: "JWST has uncovered an abundant population of compact red sources in the early Universe whose nature remains uncertain. Could these little red dots be hydrogen-burning stars with masses hundreds of thousands of times that of the Sun? We explore how metal-enriched supermassive stars develop inflated, cool envelopes and eventually collapse into seeds of supermassive black holes."
 paper_title: "Inflated Supermassive Stars as Little Red Dots and Progenitors of Supermassive Black Holes"
 authors: "Wenbin Lu"
 paper_url: "https://ui.adsabs.harvard.edu/abs/2026arXiv260922507L/abstract"
@@ -14,10 +14,6 @@ image: "/files/research/little-red-dots/final_fig_sms_HR_Q0.1_physical_units_Fem
 image_alt: "Hertzsprung–Russell diagram showing stellar luminosity versus effective temperature for five metallicities. At high masses, the more metal-rich sequences extend toward cooler temperatures; the Z = 0.01 sequence reaches the shaded region labeled LRDs."
 image_caption: "Stellar models in the luminosity–temperature plane. At sufficiently high masses, luminosities approach the Eddington limit, making the outer envelope structure highly sensitive to metallicity-dependent opacity. More metal-rich stars develop much more extended envelopes. For near-solar metallicity (metal mass fraction Z ≈ 0.01), the envelope expands until the photosphere reaches hydrogen recombination temperatures, forming a cool branch qualitatively similar to the observed little red dots (shaded region). Models for low-mass stars (M ≤ 100 solar masses) are taken from the MIST zero-age main-sequence (ZAMS) models."
 ---
-
-## The question
-
-JWST has uncovered an abundant population of compact sources in the early Universe known as “little red dots.” Their physical nature remains uncertain. Could these objects be hydrogen-burning stars with masses hundreds of thousands of times that of the Sun?
 
 ## What's found
 

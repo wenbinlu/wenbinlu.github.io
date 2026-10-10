@@ -5,7 +5,7 @@ section: "recent"
 order: 2
 year: 2026
 topic: "Luminous fast blue optical transients"
-summary: "AT2018cow’s ultraviolet and optical plateau need not imply a massive black hole. We show that an accretion-powered wind allows a broad range of accretor masses, distinguishable through infrared observations."
+summary: "What powers AT2018cow’s ultraviolet and optical emission more than five years after the explosion, and can it reveal the central compact object’s mass? We show that an accretion-powered wind allows a broad range of accretor masses, distinguishable through infrared observations."
 paper_title: "Implications of the UV/optical Plateau of AT2018cow"
 authors: "Wenbin Lu and Anthony L. Piro"
 paper_url: "https://ui.adsabs.harvard.edu/abs/2026arXiv260715464L/abstract"
@@ -14,10 +14,6 @@ image: "/files/research/lfbots/sed_comparison_kap020.png"
 image_alt: "Two-panel spectral comparison. Models spanning different accretor masses overlap at the Hubble ultraviolet and optical measurements but separate in the infrared. The right panel compares hydrogen-rich and hydrogen-poor winds for 1.4- and 10-solar-mass accretors. Magenta triangles mark JWST sensitivities."
 image_caption: "Model spectra compared with AT2018cow’s late-time Hubble measurements and an XMM-Newton upper limit. Different accretor masses produce similar ultraviolet and optical emission but diverge in the infrared. The right panel highlights the dependence on mass and wind composition. Magenta triangles indicate JWST 5σ sensitivities for 10 ks exposures, rather than detections."
 ---
-
-## The question
-
-What powers AT2018cow’s long-lasting UV/optical emission more than five years after the explosion, and can it reveal the central compact object’s mass?
 
 ## What's found
 
