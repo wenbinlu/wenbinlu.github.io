@@ -9,7 +9,7 @@ html { scroll-behavior: smooth; scroll-padding-top: 16px; }
 .combined-title { color: olive; font-weight: bold; }
 .summary { line-height: 1.4; }
 .paper { line-height: 1.4; }
-figure { margin: 24px 0; max-width: 800px; }
+figure { margin: 24px 0; max-width: 600px; }
 figure img { display: block; width: 100%; height: auto; }
 figcaption { margin-top: 12px; line-height: 1.4; }
 .project-body { line-height: 1.4; }

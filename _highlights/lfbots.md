@@ -5,7 +5,7 @@ slug: "lfbots"
 section: "recent"
 order: 2
 year: 2026
-topic: "Luminous fast blue optical transients"
+topic: "Luminous Fast Blue Optical Transients"
 summary: "What powers AT2018cow’s UV/optical emission many years after the explosion, and can it reveal the central compact object’s mass? We show that a super-Eddington disk wind allows a broad range of accretor masses, distinguishable through infrared observations."
 paper_title: "Implications of the UV/optical Plateau of AT2018cow"
 authors: "Wenbin Lu and Anthony L. Piro"

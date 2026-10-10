@@ -5,7 +5,7 @@ slug: "chaotic-tides"
 section: "recent"
 order: 3
 year: 2026
-topic: "Binaries in galactic nuclei"
+topic: "Binaries in Galactic Nuclei"
 summary: "A massive black hole can tear a stellar binary apart, ejecting one star at high speed and capturing the other. What happens during the many passages before breakup? We show how repeated perturbations excite chaotic stellar oscillations, tightening binaries and creating a channel for exceptionally fast escaping stars."
 paper_title: "Formation of Close Binaries through Massive Black Hole Perturbations and Chaotic Tides"
 authors: "Howard Hao-Tse Huang and Wenbin Lu"

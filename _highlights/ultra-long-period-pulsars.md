@@ -5,7 +5,7 @@ slug: "ultra-long-period-pulsars"
 section: "recent"
 order: 5
 year: 2026
-topic: "Ultra-long-period pulsars"
+topic: "Ultra-long-period Pulsars"
 summary: "Some radio sources pulse only once every few minutes or hours. If they are neutron stars, how did they reach such long spin periods? We propose that gas captured from a supernova-shocked companion forms a disk that rapidly brakes the newborn neutron star."
 paper_title: "Accretion from a Shock-inflated Companion: Spinning Down Neutron Stars to Hour-long Periods"
 authors: "Savannah Cary, Wenbin Lu, Calvin Leung, and Tin Long Sunny Wong"

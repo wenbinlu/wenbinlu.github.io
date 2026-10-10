@@ -13,7 +13,7 @@ paper_url: "https://arxiv.org/abs/2609.14508"
 publication_status: "Accepted; arXiv preprint"
 image: "/files/research/fast-x-ray-transients/NSM_jet_cocoon.png"
 image_alt: "Six simulation snapshots showing the energy density of a jet and its surrounding cocoon from 0 to about 1,000 seconds in the lab frame. Black solid and green dashed curves mark the photospheric and diffusion radii in the last three panels."
-image_caption: "Figure 1: A jet propagating through neutron star merger ejecta creates a hot cocoon that expands beyond the ejecta. Colors show logarithmic energy density; black solid and green dashed curves mark the photospheric and diffusion radii. The six snapshots follow the lab-frame evolution to roughly 1,000 seconds, when cooling radiation can escape."
+image_caption: "A jet propagating through neutron star merger ejecta creates a hot cocoon that expands beyond the ejecta. Colors show logarithmic energy density; black solid and green dashed curves mark the photospheric and diffusion radii. The six snapshots follow the lab-frame evolution to roughly 1,000 seconds, when cooling radiation can escape."
 ---
 
 ## What's found
