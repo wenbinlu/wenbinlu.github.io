@@ -1,5 +1,6 @@
 ---
 title: "First light from neutron star mergers"
+display_title: "Fast X-ray Transients (2026)"
 slug: "fast-x-ray-transients"
 section: "recent"
 order: 4

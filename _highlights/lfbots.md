@@ -1,5 +1,6 @@
 ---
 title: "What powers AT2018cow’s long-lived glow?"
+display_title: "Luminous Fast Blue Optical Transients (2026)"
 slug: "lfbots"
 section: "recent"
 order: 2

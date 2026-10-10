@@ -1,5 +1,6 @@
 ---
 title: "Chaotic tides create close binaries near massive black holes"
+display_title: "Binaries in galactic nuclei and chaotic tides (2026)"
 slug: "chaotic-tides"
 section: "recent"
 order: 3

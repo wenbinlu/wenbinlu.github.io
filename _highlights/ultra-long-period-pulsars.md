@@ -1,5 +1,6 @@
 ---
 title: "Spinning neutron stars down to hour-long periods"
+display_title: "Ultra-long-period Pulsars (2026)"
 slug: "ultra-long-period-pulsars"
 section: "recent"
 order: 5
