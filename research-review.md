@@ -11,7 +11,3 @@ highlight_slugs:
 ---
 
 # Highlights of Recent Research
-
-I study the physics of energetic transients, stars, and compact objects, using theory and numerical models to connect physical mechanisms with observations.
-
-[Full publication list on ADS](https://ui.adsabs.harvard.edu/user/libraries/Si1WBKVbSO2hFB7PsIE0FQ)

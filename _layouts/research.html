@@ -27,7 +27,6 @@
     {% endfor %}
     <a href="#earlier-works">Earlier works</a>
   </nav>
-  <h2 class="section-title">Recent highlights</h2>
   {% for highlight in highlights %}
     {% if selected_slugs contains highlight.slug %}
     <article class="highlight" id="{{ highlight.slug | escape }}">
