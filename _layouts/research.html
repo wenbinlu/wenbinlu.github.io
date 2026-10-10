@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} — Wenbin Lu</title>
+  <meta name="description" content="Selected research by Wenbin Lu, theoretical astrophysicist at UC Berkeley.">
+  <link rel="stylesheet" href="{{ '/research-highlights.css' | relative_url }}">
+  <script>window.MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}};</script>
+  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <a class="name" href="{{ '/' | relative_url }}">Wenbin Lu</a>
+  <nav aria-label="Main navigation">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ page.url | relative_url }}" aria-current="page">Research</a>
+    <a href="https://ui.adsabs.harvard.edu/user/libraries/Si1WBKVbSO2hFB7PsIE0FQ">Publications</a>
+    <a href="{{ '/predictions.html' | relative_url }}">Predictions</a>
+    <a href="{{ '/index.html' | relative_url }}#teaching">Teaching</a>
+  </nav>
+</header>
+<main id="main">
+  <div class="intro">{{ content }}</div>
+  {% assign highlights = site.highlights | sort: 'order' %}
+  {% assign selected_slugs = page.highlight_slugs | default: page.preview_slugs %}
+  <nav class="topics" aria-label="Research topics">
+    {% for highlight in highlights %}
+      {% if selected_slugs contains highlight.slug %}
+      <a href="#{{ highlight.slug | escape }}">{{ highlight.topic | escape }}</a>
+      {% endif %}
+    {% endfor %}
+    <a href="#earlier-works">Earlier works</a>
+  </nav>
+  <h2 class="section-title">Recent highlights</h2>
+  {% for highlight in highlights %}
+    {% if selected_slugs contains highlight.slug %}
+    <article class="highlight" id="{{ highlight.slug | escape }}">
+      <p class="eyebrow">{{ highlight.topic | escape }} · {{ highlight.year }}</p>
+      <h2>{{ highlight.title | escape }}</h2>
+      <p class="summary">{{ highlight.summary | escape }}</p>
+      <p class="paper"><a href="{{ highlight.paper_url | escape }}">{{ highlight.paper_title | escape }}</a><br>{{ highlight.authors | escape }} · {{ highlight.year }} · {{ highlight.publication_status | escape }}</p>
+      {% if highlight.image != empty %}
+      <figure>
+        <a href="{{ highlight.image_link | default: highlight.image | relative_url }}" aria-label="View full-resolution figure">
+          <img src="{{ highlight.image | relative_url }}" alt="{{ highlight.image_alt | escape }}">
+        </a>
+        <figcaption>{{ highlight.image_caption | escape }}</figcaption>
+      </figure>
+      {% endif %}
+      <div class="project-body">{{ highlight.content | markdownify | replace: '<h2', '<h3' | replace: '</h2>', '</h3>' }}</div>
+      {% for figure in highlight.additional_figures %}
+      <figure>
+        <a href="{{ figure.image | relative_url }}" aria-label="View full-resolution figure">
+          <img src="{{ figure.image | relative_url }}" alt="{{ figure.image_alt | escape }}" loading="lazy">
+        </a>
+        <figcaption>{{ figure.image_caption | escape }}</figcaption>
+      </figure>
+      {% endfor %}
+      <a class="back-top" href="#main">Back to top ↑</a>
+    </article>
+    {% endif %}
+  {% endfor %}
+  <section class="earlier" id="earlier-works">
+    <h2>Earlier works</h2>
+    <p>Explore selected work on fast radio bursts, tidal disruption events, compact-object mergers, and relativistic jets.</p>
+    <a href="{{ '/research-earlier.html' | relative_url }}">Read earlier research highlights →</a>
+  </section>
+</main>
+<footer>Wenbin Lu · Department of Astronomy · UC Berkeley</footer>
+</body>
+</html>

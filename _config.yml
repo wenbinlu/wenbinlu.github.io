@@ -1,0 +1,20 @@
+# Site information
+title: "Wenbin Lu"
+url: "https://wenbinlu.github.io"
+baseurl: ""
+
+# Read one Markdown file per research highlight.
+# Highlights will be assembled into the research page by a shared layout.
+collections:
+  highlights:
+    output: false
+
+markdown: kramdown
+kramdown:
+  auto_ids: false
+
+# Editing resources are not published as web pages.
+exclude:
+  - README.md
+  - _templates
+  - research-preview.md
