@@ -1,6 +1,6 @@
 ---
 layout: research
-title: "highlights of recent research"
+title: "Highlights of Recent Research"
 permalink: /research.html
 highlight_slugs:
   - little-red-dots
@@ -10,7 +10,7 @@ highlight_slugs:
   - ultra-long-period-pulsars
 ---
 
-# highlights of recent research
+# Highlights of Recent Research
 
 I study the physics of energetic transients, stars, and compact objects, using theory and numerical models to connect physical mechanisms with observations.
 
