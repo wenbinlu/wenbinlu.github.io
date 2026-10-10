@@ -18,13 +18,13 @@ image_caption: "Stellar models in the luminosity–temperature plane. At suffici
 
 ## What's found
 
-We construct models of supermassive stars in hydrostatic and thermal equilibrium. Their interiors contain a hot, nuclear-burning core surrounded by an envelope whose structure depends strongly on metallicity. Enhanced opacity associated with iron can inflate the envelope, allowing metal-rich models to reach surface temperatures around 7,000 K.
+We construct models of supermassive stars in hydrostatic and thermal equilibrium. Their interiors contain a hot, nuclear-burning core surrounded by an envelope whose structure depends strongly on metallicity. Enhanced opacity can inflate the envelope, allowing metal-rich models to reach surface temperatures near 7,000 K.
 
 The maximum stable mass is of the order $10^6 M_\odot$ (depending on core rotation). As the stars exhaust hydrogen on a timescale of the order 1 Myr, they can become unstable under general relativity and collapse into massive black holes.
 
 ## Why it matters
 
-This interpretation could connect little red dots to the formation of supermassive black holes. Cool stellar photospheres naturally produce weak X-ray emission, while the models’ maximum luminosity is comparable to the observed bright-end cutoff of the little-red-dot population.
+This interpretation could connect little red dots to the formation of supermassive black holes. Cool stellar photospheres naturally produce observed rest-frame optical emission, while the predicted maximum luminosity is comparable to the observed bright-end luminosity function cutoff.
 
 The strongest support for this model comes from the abundance of little red dots. Combined with a supermassive star’s nuclear lifetime of ~1 Myr, their observed number density predicts the number density of present-day supermassive black holes to within a factor of order unity, assuming that each little red dot leaves a black hole retaining most of the stellar mass.
 

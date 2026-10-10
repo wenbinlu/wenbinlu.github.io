@@ -18,9 +18,9 @@ image_caption: "A stellar binary repeatedly passes near a massive black hole whi
 
 ## What's found
 
-We model repeated black-hole perturbations together with tidal interactions between the two stars. The perturbations can drive the binary to highly eccentric orbits, bringing the stars within a few stellar radii of each other. Their oscillations then grow chaotically, drawing energy from the orbit and rapidly shrinking the binary.
+We model repeated black-hole perturbations together with tidal interactions between the two stars. The perturbations can drive the binary to highly eccentric orbits, bringing the stars within a few stellar radii of each other. Their oscillations then grow chaotically, draining energy from the orbit and rapidly shrinking the binary.
 
-In the modeled regime where binaries approach the breakup boundary gradually, up to half of initially wide binaries become close binaries instead of being disrupted while still wide. Their separations can shrink to less than about ten stellar radii.
+In the modeled regime where binaries approach the tidal breakup boundary gradually (so-called "empty loss-cone"), up to half of initially wide binaries become close binaries instead of being disrupted while still wide. Their separations can shrink to less than ~10 stellar radii.
 
 ## Why it matters
 
