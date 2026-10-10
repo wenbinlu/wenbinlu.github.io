@@ -25,7 +25,6 @@
       <a href="#{{ highlight.slug | escape }}">{{ highlight.topic | escape }}</a>
       {% endif %}
     {% endfor %}
-    <a href="#earlier-works">Earlier works</a>
   </nav>
   {% for highlight in highlights %}
     {% if selected_slugs contains highlight.slug %}
@@ -59,10 +58,6 @@
     </article>
     {% endif %}
   {% endfor %}
-  <section class="earlier" id="earlier-works">
-    <p>Selected work on fast radio bursts, tidal disruption events, compact-object mergers, and relativistic jets:</p>
-    <a href="{{ '/research-earlier.html' | relative_url }}">Read earlier research</a>
-  </section>
 </main>
 <footer>Wenbin Lu · Department of Astronomy · UC Berkeley</footer>
 </body>
